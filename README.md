@@ -59,6 +59,8 @@ Zip Download the Repository and Extract it's contents.
 python Start_Screen.py
 ```
 **OR**
-- Simply Run the Start_Screen.py using any compiler.
+- Simply Run the [Start_Screen.py](https://github.com/wajahati/AiDoku-Ai-Sudoku-Solver/blob/main/Start_Screen.py) using any compiler.
 
+## contributor:
+- This project was a group project with [Muhammad Sameer](#).
 <p align='center'><b>Made with ❤ by Wajahati</b></p>
