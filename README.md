@@ -11,7 +11,7 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 
 ## Working:
 
--	Every time this Script is executed, a Random Solvable board is created which is imported from API by [bertoort](https://github.com/bertoort) nmed as [Sugoku](https://github.com/bertoort/sugoku).
+-	Every time this Script is executed, a Random Solvable board is created which is imported from API by [bertoort](https://github.com/bertoort) named as [Sugoku](https://github.com/bertoort/sugoku).
 -	Pressing ENTER key will generate new random solvable board.
 - Now, the user can first try to attempt solving it by clicking on the cells and entering values manually. If the value is valid it will be added to the board.
 -	If the value is valid it will be added to the board else error msg will be displayed.  
@@ -61,6 +61,6 @@ python Start_Screen.py
 **OR**
 - Simply Run the [Start_Screen.py](https://github.com/wajahati/AiDoku-Ai-Sudoku-Solver/blob/main/Start_Screen.py) using any compiler.
 
-## contributor:
+## Contributor:
 - This project was a group project with [Muhammad Sameer](#).
 <p align='center'><b>Made with ❤ by Wajahati</b></p>
