@@ -28,9 +28,9 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 	<img src="https://github.com/wajahati/Extras/blob/main/gif%20Video_3.gif">
 </p>
 
-## **Algorithm**
+## Algorithm:
 
-**What is backtracking algorithm?**
+#What is backtracking algorithm?
 
 Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, that incrementally builds candidates to the solutions, and abandons each partial candidate (“backtracks”) as soon as it determines that the candidate cannot possibly be completed to a valid solution.
 
@@ -62,5 +62,5 @@ python Start_Screen.py
 - Simply Run the [Start_Screen.py](https://github.com/wajahati/AiDoku-Ai-Sudoku-Solver/blob/main/Start_Screen.py) using any compiler.
 
 ## Contributor:
-- This project was a group project with [Muhammad Sameer](#).
+- This project was a group project with [Muhammad Sameer](https://github.com/sameer9992).
 <p align='center'><b>Made with ❤ by Wajahati</b></p>
